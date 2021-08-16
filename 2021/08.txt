@@ -6,5 +6,5 @@ Fix bash completions
 Fix gitadmin man script
 Fix notes to retry on first failure
 Fix cdd aliases
-fix scratchpad
-Fix sudo -n in pkmgr
+#fix scratchpad
+#Fix sudo -n in pkmgr
