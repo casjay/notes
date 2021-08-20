@@ -1,7 +1,10 @@
-### All Active notes as of Tue Aug 10 05:54:53 AM EDT 2021
+### All Active notes as of Thu Aug 19 10:08:58 PM EDT 2021
+-
 Add gem/GemFile to bash prompt
 Add host check to notes server
+enable
 Fix bash completions
 Fix cdd aliases
 Fix gitadmin man script
 Fix notes to retry on first failure
+fix NOTIFICATIONS_ENABLED

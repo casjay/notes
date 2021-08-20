@@ -1,10 +1,7 @@
 ## Notes for August created on 08/07/21 at 21:03 ##
-
 Add gem/GemFile to bash prompt
 Add host check to notes server
 Fix bash completions
 Fix gitadmin man script
 Fix notes to retry on first failure
-Fix cdd aliases
-#fix scratchpad
-#Fix sudo -n in pkmgr
+fix NOTIFICATIONS_ENABLED
