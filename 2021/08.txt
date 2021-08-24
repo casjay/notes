@@ -8,4 +8,6 @@ Fix fontmgr install
 Fix bin/todo script
 fix bin/scratchpad
 fix bin/notes
+fix bin/tasks
 edit functions
+
