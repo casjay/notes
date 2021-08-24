@@ -6,3 +6,5 @@ Fix gitadmin man script
 Fix notes to retry on first failure
 
 -
+Fix fontmgr install
+git
