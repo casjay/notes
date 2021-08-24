@@ -9,4 +9,3 @@ Fix fontmgr install
 #fix bin/scratchpad
 #fix bin/notes
 #fix bin/tasks
-
