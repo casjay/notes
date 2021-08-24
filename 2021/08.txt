@@ -5,9 +5,9 @@ Fix bash completions
 Fix gitadmin man script
 Fix notes to retry on first failure
 Fix fontmgr install
-Fix bin/todo script
-fix bin/scratchpad
-fix bin/notes
-fix bin/tasks
+#Fix bin/todo script
+#fix bin/scratchpad
+#fix bin/notes
+#fix bin/tasks
 edit functions
 
