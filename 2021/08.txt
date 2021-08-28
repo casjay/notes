@@ -5,3 +5,4 @@ Fix bash completions
 Fix gitadmin man script
 Fix notes to retry on first failure
 Fix fontmgr install
+server start loop &
