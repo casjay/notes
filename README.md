@@ -4,4 +4,4 @@ A repo for notes
   
 ## Author  
 
-👤 **AuthorName**  
+👤 **@casjay**  
