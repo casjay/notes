@@ -1,0 +1,8 @@
+## Notes for November created on 11/16/21 at 19:03 ##
+Add gem/GemFile to bash prompt
+Add host check to notes server
+Fix bash completions
+Fix gitadmin man script
+Fix notes to retry on first failure
+Fix fontmgr install
+server start loop &
