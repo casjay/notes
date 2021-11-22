@@ -7,3 +7,4 @@ Fix notes to retry on first failure
 Fix fontmgr install
 server start loop &
 Fix devenvmgr git setup
+fix cdd default message
