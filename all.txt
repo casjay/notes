@@ -1,12 +1,17 @@
-### All Active notes as of Tue Aug 24 01:24:03 PM EDT 2021
+### All Active notes as of Sat Nov 27 11:01:56 AM EST 2021
 -
+Add API to notes app
 Add gem/GemFile to bash prompt
 Add host check to notes server
 enable
 Fix bash completions
 Fix bin/todo script
 Fix cdd aliases
+fix cdd default message
+Fix devenvmgr git setup
 Fix fontmgr install
 Fix gitadmin man script
+fix notes /dev/stdin
 Fix notes to retry on first failure
 fix NOTIFICATIONS_ENABLED
+server start loop &
