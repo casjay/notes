@@ -10,4 +10,3 @@ Fix devenvmgr git setup
 fix cdd default message
 fix notes /dev/stdin
 Add API to notes app
-notes test
