@@ -12,3 +12,4 @@ fix notes /dev/stdin
 Add API to notes app
 Fix myvirtmanager
 Fix commit message for notes
+Add node to info function in scripts/bin/pkmgr
