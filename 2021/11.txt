@@ -13,3 +13,4 @@ Add API to notes app
 Fix myvirtmanager
 Fix commit message for notes
 Add node to info function in scripts/bin/pkmgr
+Update all @dfmgr/misc/bin scripts
