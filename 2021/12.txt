@@ -1,0 +1,25 @@
+## Notes for December created on 12/03/21 at 16:12 ##
+
+Add gem/GemFile to bash prompt
+Add host check to notes server
+Fix bash completions
+Fix gitadmin man script
+Fix notes to retry on first failure
+Fix fontmgr install
+server start loop &
+Add gem/GemFile to bash prompt
+Add host check to notes server
+Fix bash completions
+Fix gitadmin man script
+Fix notes to retry on first failure
+Fix fontmgr install
+server start loop &
+Fix devenvmgr git setup
+fix cdd default message
+fix notes /dev/stdin
+Add API to notes app
+Fix myvirtmanager
+Fix commit message for notes
+Add node to info function in scripts/bin/pkmgr
+Update all @dfmgr/misc/bin scripts
+Add health endpoints to all domains
