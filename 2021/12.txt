@@ -25,3 +25,4 @@ Update all @dfmgr/misc/bin scripts
 Add health endpoints to all domains
 updates scripts to support gtk [yad,zenity,Xdialog]
 Change dockermgr test to accept url/basename
+Add dockermgr option to keep or delete test containers
