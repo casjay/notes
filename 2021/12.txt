@@ -24,3 +24,4 @@ Add node to info function in scripts/bin/pkmgr
 Update all @dfmgr/misc/bin scripts
 Add health endpoints to all domains
 updates scripts to support gtk [yad,zenity,Xdialog]
+Change dockermgr test to accept url/basename
