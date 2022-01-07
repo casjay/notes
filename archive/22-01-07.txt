@@ -1,0 +1,134 @@
+### All Active notes as of Fri Jan  7 02:16:36 AM EST 2022
+Add API to notes app
+Add dockermgr option to keep or delete test containers
+Add gem/GemFile to bash prompt
+Add health endpoints to all domains
+Add host check to notes server
+Add node to info function in scripts/bin/pkmgr
+Change dockermgr test to accept url/basename
+Fix bash completions
+fix cdd default message
+Fix commit message for notes
+Fix devenvmgr git setup
+Fix fontmgr install
+Fix gitadmin man script
+Fix myvirtmanager
+fix notes /dev/stdin
+Fix notes to retry on first failure
+server start loop &
+Update all @dfmgr/misc/bin scripts
+updates scripts to support gtk [yad,zenity,Xdialog]
+Add API to notes app
+Add dockermgr option to keep or delete test containers
+Add gem/GemFile to bash prompt
+Add health endpoints to all domains
+Add host check to notes server
+Add node to info function in scripts/bin/pkmgr
+Change dockermgr test to accept url/basename
+Fix bash completions
+fix cdd default message
+Fix commit message for notes
+Fix devenvmgr git setup
+Fix fontmgr install
+Fix gitadmin man script
+Fix myvirtmanager
+fix notes /dev/stdin
+Fix notes to retry on first failure
+server start loop &
+Update all @dfmgr/misc/bin scripts
+updates scripts to support gtk [yad,zenity,Xdialog]
+Add API to notes app
+Add dockermgr option to keep or delete test containers
+Add gem/GemFile to bash prompt
+Add health endpoints to all domains
+Add host check to notes server
+Add node to info function in scripts/bin/pkmgr
+Change dockermgr test to accept url/basename
+Fix bash completions
+fix cdd default message
+Fix commit message for notes
+Fix devenvmgr git setup
+Fix fontmgr install
+Fix gitadmin man script
+Fix myvirtmanager
+fix notes /dev/stdin
+Fix notes to retry on first failure
+server start loop &
+Update all @dfmgr/misc/bin scripts
+updates scripts to support gtk [yad,zenity,Xdialog]
+Add API to notes app
+Add dockermgr option to keep or delete test containers
+Add gem/GemFile to bash prompt
+Add health endpoints to all domains
+Add host check to notes server
+Add node to info function in scripts/bin/pkmgr
+Change dockermgr test to accept url/basename
+Fix bash completions
+fix cdd default message
+Fix commit message for notes
+Fix devenvmgr git setup
+Fix fontmgr install
+Fix gitadmin man script
+Fix myvirtmanager
+fix notes /dev/stdin
+Fix notes to retry on first failure
+server start loop &
+Update all @dfmgr/misc/bin scripts
+updates scripts to support gtk [yad,zenity,Xdialog]
+Add API to notes app
+Add dockermgr option to keep or delete test containers
+Add gem/GemFile to bash prompt
+Add health endpoints to all domains
+Add host check to notes server
+Add node to info function in scripts/bin/pkmgr
+Change dockermgr test to accept url/basename
+Fix bash completions
+fix cdd default message
+Fix commit message for notes
+Fix devenvmgr git setup
+Fix fontmgr install
+Fix gitadmin man script
+Fix myvirtmanager
+fix notes /dev/stdin
+Fix notes to retry on first failure
+server start loop &
+Update all @dfmgr/misc/bin scripts
+updates scripts to support gtk [yad,zenity,Xdialog]
+Add API to notes app
+Add dockermgr option to keep or delete test containers
+Add gem/GemFile to bash prompt
+Add health endpoints to all domains
+Add host check to notes server
+Add node to info function in scripts/bin/pkmgr
+Change dockermgr test to accept url/basename
+Fix bash completions
+fix cdd default message
+Fix commit message for notes
+Fix devenvmgr git setup
+Fix fontmgr install
+Fix gitadmin man script
+Fix myvirtmanager
+fix notes /dev/stdin
+Fix notes to retry on first failure
+server start loop &
+Update all @dfmgr/misc/bin scripts
+updates scripts to support gtk [yad,zenity,Xdialog]
+Add API to notes app
+Add dockermgr option to keep or delete test containers
+Add gem/GemFile to bash prompt
+Add health endpoints to all domains
+Add host check to notes server
+Add node to info function in scripts/bin/pkmgr
+Change dockermgr test to accept url/basename
+Fix bash completions
+fix cdd default message
+Fix commit message for notes
+Fix devenvmgr git setup
+Fix fontmgr install
+Fix gitadmin man script
+Fix myvirtmanager
+fix notes /dev/stdin
+Fix notes to retry on first failure
+server start loop &
+Update all @dfmgr/misc/bin scripts
+updates scripts to support gtk [yad,zenity,Xdialog]
