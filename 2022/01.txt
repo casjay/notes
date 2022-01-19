@@ -1,2 +1,3 @@
 ## Notes for January created on 01/02/22 at 15:30 ##
+Add touch ~/.config/secure/git/credentials git installer
 
