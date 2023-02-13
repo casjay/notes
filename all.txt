@@ -1,4 +1,4 @@
-### All Active notes as of Thu 23 Jun 2022 09:07:39 PM EDT
+### All Active notes as of Mon Feb 13 09:35:49 AM EST 2023
 Add a no git option to notes
 Add API to notes app
 Add dockermgr option to keep or delete test containers
@@ -20,6 +20,7 @@ fix git in notes/scratchpad/todo - git s|grep -v '#'|grep -w '^A. *'
 Fix myvirtmanager
 fix notes /dev/stdin
 Fix notes to retry on first failure
+import
 server start loop &
 snc
 turn latest-iso into script
