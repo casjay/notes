@@ -2,7 +2,6 @@
 
 Add a no git option to notes
 Add API to notes app
-Add dockermgr option to keep or delete test containers
 Add gem/GemFile to bash prompt
 Add health endpoints to all domains
 Add host check to notes server
