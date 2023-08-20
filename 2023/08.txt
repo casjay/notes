@@ -1,0 +1,29 @@
+## Notes for August created on 08/20/23 at 09:59 ##
+
+Add a no git option to notes
+Add API to notes app
+Add dockermgr option to keep or delete test containers
+Add gem/GemFile to bash prompt
+Add health endpoints to all domains
+Add host check to notes server
+Add node to info function in scripts/bin/pkmgr
+Add touch ~/.config/secure/git/credentials git installer
+Change dockermgr test to accept url/basename
+curl -q -LSsf --fail http://localhost:8080/json |jq -rc '.ip'|grep '127.0.0.1'
+Disable console output on scripts with yad/zenity
+Fix bash completions
+fix cdd default message
+Fix commit message for notes
+Fix devenvmgr git setup
+Fix fontmgr install
+Fix gitadmin man script
+fix git in notes/scratchpad/todo - git s|grep -v '#'|grep -w '^A. *'
+Fix myvirtmanager
+fix notes /dev/stdin
+Fix notes to retry on first failure
+import
+server start loop &
+snc
+turn latest-iso into script
+Update all @dfmgr/misc/bin scripts
+updates scripts to support gtk [yad,zenity,Xdialog]
