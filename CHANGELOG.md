@@ -1,4 +1,25 @@
+## 📓 Changelog: 2023-08-20 at 16:01:37 📓  
+
+📓 Modified my todo list 📓  
+  
+  
+2023/07.txt  
+2023/08.txt  
+📓 Modified my todo list 📓  
+  
+  
+2023/07.txt  
+2023/08.txt  
+
+
+### 📓 End of changes for 202308201601-git 📓  
+
+----  
+<<<<<<< HEAD
 ## 📓 Changelog: 2023-08-20 at 10:00:13 📓  
+=======
+## 📓 Changelog: 2023-08-20 at 10:58:34 📓  
+>>>>>>> dadc46408525652dbc260e8e8826df36ade13c81
 
 📓 Modified my todo list 📓  
   
@@ -7,7 +28,11 @@
 2023/08.txt  
 
 
+<<<<<<< HEAD
 ### 📓 End of changes for 202308201000-git 📓  
+=======
+### 📓 End of changes for 202308201058-git 📓  
+>>>>>>> dadc46408525652dbc260e8e8826df36ade13c81
 
 ----  
 ## 🗃️ Changelog: 2023-08-10 at 17:54:03 🗃️  

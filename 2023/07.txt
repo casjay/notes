@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 ## Notes for July created on 07/20/23 at 09:59 ##
 
+=======
+at
+
+ "## Notes for July created on 07/20/2310:58 ##\n
+
+ "## Notes for July created on 07/20/23
+>>>>>>> dadc46408525652dbc260e8e8826df36ade13c81
